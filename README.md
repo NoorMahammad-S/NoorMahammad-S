@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NoorMahammad-S 🐍 Python Developer | Data Enthusiast | Code Artisan 🖋️
 
-Passionate about all things Python, I craft elegant solutions to complex problems using code. 🚀
+  Passionate about all things Python, I craft elegant solutions to complex problems using code. 🚀
 
-🔍 Skills:
+- 🔎 Skills:
 Python (Flask, Django)
 Data Analysis (Pandas, NumPy)
 Machine Learning (Scikit-Learn, TensorFlow)
@@ -16,7 +16,7 @@ Uncovering insights from data with a dash of AI magic
 Building web applications that make life easier
 Contributing to open-source projects
 
-🎯 Goals:
+- 🎯 Goals:
 Contribute to projects that drive positive change
 Learn and grow as a developer every day
 Collaborate with like-minded coding enthusiasts
