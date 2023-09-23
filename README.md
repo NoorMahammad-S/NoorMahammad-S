@@ -22,10 +22,3 @@ Learn and grow as a developer every day
 Collaborate with like-minded coding enthusiasts
 Inspire and mentor the next generation of Pythonistas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername)
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/yourusername)
