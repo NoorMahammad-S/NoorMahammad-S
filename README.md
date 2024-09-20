@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NoorMahammad-S 🐍 Python Developer | Data Enthusiast | Code Artisan 🖋️
+- 👋 Hi, I’m @NoorMahammad-S 👨🏻‍💻 Software Engineer | 🐍 Python Developer | Data Enthusiast | Code Artisan 🖋️
 
   Passionate about all things Python, I craft elegant solutions to complex problems using code. 🚀
 
